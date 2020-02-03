@@ -20,5 +20,5 @@ for(let i =0; i<5;i++){
 }
 
 
-console.log(buckysstle(22, 69))
+console.log(buckysstyle(22, 69))
 
